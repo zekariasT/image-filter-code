@@ -34,6 +34,9 @@ Follow the process described in the course to `eb init` a new application and `e
 ### link to the endpoint URL for a running elastic beanstalk deployment
 http://image-filter-code-dev.us-east-1.elasticbeanstalk.com/filteredimage?img_url=https://ichef.bbci.co.uk/news/976/cpsprodpb/F0F1/production/_126818616_trumpohio.jpg
 
+### link to GitHub repository URL
+https://github.com/zekariasT/image-filter-code
+
 ## Stand Out (Optional)
 
 ### Refactor the course RESTapi
